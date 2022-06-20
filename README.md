@@ -1,20 +1,18 @@
-### Hi there 👋
-
-
-**AriHenrique/AriHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ## Oiii eu sou o Aristides Henrique, estudo Sistemas de Informação e programação!
+
+
+Aqui estão algumas ideias para você começar:
+
+ 
+- 🌱atualmente estou aprendendo C#, HTML, CSS e SQL (engatinhando ainda)
+- 👯Procuro estágios 
+- 🤔Procuro ajuda com mentores que possam me instruir no melhor caminho para um aprendizado eficiente
+- 💬Pergunte-me sobre QUALQUER COISA!!!
+- 📫Como chegar até mim: arihenriqueuna@gmail.com, @aryhenry (ig)
+- 😄Pronomes:ELE/DELE
+- ⚡Fato engraçado: Sou bastante estrovertido e adoro conversar e interagir com as pessoas
+
+
 <div align="center">
   <a href="https://github.com/arihenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arihenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,7 +20,11 @@ Here are some ideas to get you started:
 </div>
 
   
+
+  
 <!--START_SECTION:waka-->
+  
+  
 **🐱 My GitHub Data** 
 
 > 🏆 212 Contributions in the Year 2022
