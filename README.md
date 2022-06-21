@@ -10,7 +10,7 @@ Aqui estão algumas ideias para você começar:
 - 💬Pergunte-me sobre QUALQUER COISA!!!
 - 📫Como chegar até mim: arihenriqueuna@gmail.com, @aryhenry (ig)
 - 😄Pronomes:ELE/DELE
-- ⚡Fato engraçado: Sou bastante estrovertido e adoro conversar e interagir com as pessoas
+- ⚡Fato engraçado: Sou bastante extrovertido e adoro conversar e interagir com as pessoas
 
 
 <div align="center">
