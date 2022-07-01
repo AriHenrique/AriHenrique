@@ -22,4 +22,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "true"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "true"
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 1
