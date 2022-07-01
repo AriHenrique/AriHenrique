@@ -12,21 +12,19 @@ Aqui estão algumas ideias para você começar:
 - 😄Pronomes:ELE/DELE
 - ⚡Fato engraçado: Sou bastante extrovertido e adoro conversar e interagir com as pessoas
 
-
+<br/>
+<br/>
 <div align="center">
   <a href="https://github.com/arihenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arihenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihenrique&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div><br/><br/>
 
   
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2017%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-299-blue)
-
+<div align="center">
 **🐱 My GitHub Data** 
 
 > 🏆 225 Contributions in the Year 2022
@@ -39,8 +37,10 @@ Aqui estão algumas ideias para você começar:
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
+</div><br/>
+<div align="center">
+ **I'm an Early 🐤**</div><br/> 
+ 
 ```text
 🌞 Morning    101 commits    ███████████░░░░░░░░░░░░░░   46.54% 
 🌆 Daytime    80 commits     █████████░░░░░░░░░░░░░░░░   36.87% 
@@ -48,7 +48,10 @@ Aqui estão algumas ideias para você começar:
 🌙 Night      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.91%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+<br/>
+
+<div align="center">
+ 📅 **I'm Most Productive on Sunday**</div><br/> 
 
 ```text
 Monday       48 commits     █████░░░░░░░░░░░░░░░░░░░░   22.12% 
@@ -60,9 +63,11 @@ Saturday     27 commits     ███░░░░░░░░░░░░░░�
 Sunday       66 commits     ███████░░░░░░░░░░░░░░░░░░   30.41%
 
 ```
+<br/>
 
-
-📊 **This Week I Spent My Time On** 
+<div align="center">
+ 📊 **This Week I Spent My Time On** </div><br/>
+ 
 
 ```text
 ⌚︎ Time Zone: America/Sao_Paulo
@@ -82,8 +87,10 @@ Structs                  5 mins              █░░░░░░░░░░�
 Windows                  1 hr 20 mins        █████████████████████████   100.0%
 
 ```
+<br/>
 
-**I Mostly Code in HTML** 
+<div align="center">
+ **I Mostly Code in HTML** </div><br/>
 
 ```text
 HTML                     6 repos             ███████████░░░░░░░░░░░░░░   46.15% 
@@ -93,6 +100,8 @@ PHP                      1 repo              ██░░░░░░░░░�
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
+<br/>
+
 
 
 
