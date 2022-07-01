@@ -37,6 +37,7 @@ Aqui estão algumas ideias para você começar:
  > 
 > 🔑 0 Private Repositories  
  > 
+  > 
 **I'm an Early 🐤** 
 
 ```text
@@ -89,9 +90,6 @@ PHP                      1 repo              ██░░░░░░░░░�
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
-
-
-**Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/AriHenrique/AriHenrique/main/charts/bar_graph.png) 
 
