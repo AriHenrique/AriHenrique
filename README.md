@@ -1,7 +1,7 @@
 ## Oiii eu sou o Aristides Henrique, estudo Sistemas de Informação e programação!
 
 
-Aqui estão algumas ideias para você começar:
+Aqui estão algumas informações sobre mim:
 
  
 - 🌱atualmente estou aprendendo C#, HTML, CSS e SQL (engatinhando ainda)
