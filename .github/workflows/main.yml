@@ -23,3 +23,6 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "true"
           SYMBOL_VERSION: 1
+          SHOW_PROFILE_VIEWS: "true"
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_UPDATED_DATE: "true"

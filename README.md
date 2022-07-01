@@ -24,9 +24,6 @@ Aqui estão algumas informações sobre mim:
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/?username=arihenrique&color=green)
-
-![](https://komarev.com/ghpvc/?username=arihenrique&color=green)
 
 **🐱 My GitHub Data** 
 
