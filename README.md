@@ -5,7 +5,7 @@ Aqui estão algumas ideias para você começar:
 
  
 - 🌱atualmente estou aprendendo C#, HTML, CSS e SQL (engatinhando ainda)
-- 👯Procuro estágios 
+- 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL 
 - 🤔Procuro ajuda com mentores que possam me instruir no melhor caminho para um aprendizado eficiente
 - 💬Pergunte-me sobre QUALQUER COISA!!!
 - 📫Como chegar até mim: arihenriqueuna@gmail.com, @aryhenry (ig)
