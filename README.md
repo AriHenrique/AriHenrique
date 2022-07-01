@@ -27,16 +27,17 @@ Aqui estão algumas ideias para você começar:
 <div align="center">
 **🐱 My GitHub Data** 
 
-> 🏆 225 Contributions in the Year 2022
- > 
-> 📦 31.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
+ 🏆 225 Contributions in the Year 2022 
+ 
+ 📦 31.3 kB Used in GitHub's Storage 
+ 
+ 🚫 Not Opted to Hire
+ 
+ 📜 17 Public Repositories 
+ 
+ 🔑 0 Private Repositories  
+
+                             
 </div><br/>
 <div align="center">
  **I'm an Early 🐤**</div><br/> 
@@ -101,9 +102,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 ```
 <br/>
-
-
-
 
  Last Updated on 01/07/2022 14:12:57 UTC
 <!--END_SECTION:waka-->
