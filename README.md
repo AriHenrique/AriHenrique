@@ -1,62 +1,37 @@
 ## Oiii eu sou o Aristides Henrique, estudo Sistemas de Informação e programação!
 
 
-Aqui estão algumas informações sobre mim:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style/style.css">
-  <title>Document</title>
-</head>
-<body>
-<div>
+
+<div >
+Aqui estão algumas informações sobre mim:<img align="right" height="180em" src="https://user-images.githubusercontent.com/97318481/177042589-45d62122-82a9-4a32-b3a7-87b322825b2f.png">
+</div
+
 - 🌱atualmente estou aprendendo C#, HTML, CSS e SQL (engatinhando ainda)
-<div>
-- 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL 
-<div>
+- 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL
 - 🤔Procuro ajuda com mentores que possam me instruir no melhor caminho para um aprendizado eficiente
-<div>
-- 💬Pergunte-me sobre QUALQUER COISA!!! 
-<div>
+- 💬Pergunte-me sobre QUALQUER COISA!!!
 - 📫Como chegar até mim: arihenriqueuna@gmail.com, @aryhenry (ig)
-<div>
 - 😄Pronomes:ELE/DELE
-<div>
 - ⚡Fato engraçado: Sou bastante extrovertido e adoro conversar e interagir com as pessoas
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="avatar">
-<img height="180em" src="https://cdn.discordapp.com/attachments/993134182769381389/993134239056932904/download20220700093437.png"/>
-</div>
-
-</body>
-</html>
-
-
 <br/>
+<br/>
+
 <div align="center">
   <a href="https://github.com/arihenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arihenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihenrique&layout=compact&langs_count=7&theme=dracula"/>
-</div><br/><br/>
+</div>
+<br/>
+<br/>
 
-  
-
-  
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-443-blue)
+
+
 
 **🐱 My GitHub Data** 
 
