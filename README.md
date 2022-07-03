@@ -1,11 +1,8 @@
 ## Oiii eu sou o Aristides Henrique, estudo Sistemas de Informação e programação!
 
-
-
-
 <div >
 Aqui estão algumas informações sobre mim:<img align="right" height="180em" src="https://user-images.githubusercontent.com/97318481/177042589-45d62122-82a9-4a32-b3a7-87b322825b2f.png">
-</div
+</div>
 
 - 🌱atualmente estou aprendendo C#, HTML, CSS e SQL (engatinhando ainda)
 - 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL
