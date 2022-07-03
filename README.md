@@ -9,6 +9,7 @@ Aqui estão algumas informações sobre mim:
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style/style.css">
   <title>Document</title>
 </head>
 <body>
@@ -33,14 +34,6 @@ Aqui estão algumas informações sobre mim:
 </div>
 </div>
 </div>
-
-<style>
-  .avatar{
-    float: right;
-    margin-top: -160px;
-    margin-right: 220px;
-  }
-</style>
 
 <div class="avatar">
 <img height="180em" src="https://cdn.discordapp.com/attachments/993134182769381389/993134239056932904/download20220700093437.png"/>
