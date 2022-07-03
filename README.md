@@ -3,16 +3,37 @@
 
 Aqui estão algumas informações sobre mim:
 
- 
-- 🌱atualmente estou aprendendo C#, HTML, CSS e SQL (engatinhando ainda)
-- 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL 
-- 🤔Procuro ajuda com mentores que possam me instruir no melhor caminho para um aprendizado eficiente
-- 💬Pergunte-me sobre QUALQUER COISA!!!
-- 📫Como chegar até mim: arihenriqueuna@gmail.com, @aryhenry (ig)
-- 😄Pronomes:ELE/DELE
-- ⚡Fato engraçado: Sou bastante extrovertido e adoro conversar e interagir com as pessoas
 
-<br/>
+
+<div>
+- 🌱atualmente estou aprendendo C#, HTML, CSS e SQL (engatinhando ainda)
+<div>
+- 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL 
+<div>
+- 🤔Procuro ajuda com mentores que possam me instruir no melhor caminho para um aprendizado eficiente
+<div>
+- 💬Pergunte-me sobre QUALQUER COISA!!! 
+<div>
+- 📫Como chegar até mim: arihenriqueuna@gmail.com, @aryhenry (ig)
+<div>
+- 😄Pronomes:ELE/DELE
+<div>
+- ⚡Fato engraçado: Sou bastante extrovertido e adoro conversar e interagir com as pessoas
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div align="right" margin-top: "-200px">
+<img height="180em" src="https://cdn.discordapp.com/attachments/993134182769381389/993134239056932904/download20220700093437.png"/>
+</div>
+
+
+
+
 <br/>
 <div align="center">
   <a href="https://github.com/arihenrique">
