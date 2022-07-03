@@ -9,7 +9,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 - 🌱atualmente estou aprendendo C#, HTML, CSS e SQL (engatinhando ainda)
 - 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL
-- 🤔Procuro ajuda com mentores que possam me instruir no melhor caminho para um aprendizado eficiente
+- 🤔Procuro ajuda com mentores que possam me instruir para um aprendizado eficiente
 - 💬Pergunte-me sobre QUALQUER COISA!!!
 - 📫Como chegar até mim:
   <a href="https://www.instagram.com/aryhenry/" target="_blank">
