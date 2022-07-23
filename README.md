@@ -29,7 +29,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -74,18 +74,18 @@ Sunday       90 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      3 hrs 59 mins       █████████████████████████   99.91% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+SQL                      4 hrs 50 mins       █████████████████████████   99.93% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  3 hrs 59 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 51 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DataBase                 3 hrs 22 mins       █████████████████████░░░░   84.59% 
-srhen                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.41%
+DataBase                 4 hrs 50 mins       █████████████████████████   99.82% 
+srhen                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 💻 Operating System: 
-Windows                  3 hrs 59 mins       █████████████████████████   100.0%
+Windows                  4 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
@@ -102,7 +102,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2022 03:49:45 UTC
+ Last Updated on 23/07/2022 04:19:54 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
