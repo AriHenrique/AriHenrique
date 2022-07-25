@@ -4,7 +4,7 @@
 Aqui estão algumas informações sobre mim:<img align="right" height="180em" src="https://user-images.githubusercontent.com/97318481/177042589-45d62122-82a9-4a32-b3a7-87b322825b2f.png">
 </div>
 
-- 🌱atualmente estou aprendendo C#, HTML, CSS e SQL (engatinhando ainda)
+- 🌱atualmente estou aprendendo C#, HTML/CSS e SQL (engatinhando ainda)
 - 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL
 - 🤔Procuro ajuda com mentores que possam me instruir para um aprendizado eficiente
 - 💬Pergunte-me sobre QUALQUER COISA!!!
@@ -29,83 +29,6 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2015%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 296 Contributions in the Year 2022
- > 
-> 📦 27.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    117 commits    ███████████░░░░░░░░░░░░░░   46.06% 
-🌆 Daytime    94 commits     █████████░░░░░░░░░░░░░░░░   37.01% 
-🌃 Evening    24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
-🌙 Night      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       52 commits     █████░░░░░░░░░░░░░░░░░░░░   20.47% 
-Tuesday      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
-Wednesday    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
-Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.33% 
-Friday       41 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
-Saturday     27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
-Sunday       90 commits     ████████░░░░░░░░░░░░░░░░░   35.43%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-SQL                      3 hrs 25 mins       ████████████████████████░   97.71% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
-
-🔥 Editors: 
-VS Code                  3 hrs 30 mins       █████████████████████████   99.83% 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
-
-🐱‍💻 Projects: 
-DataBase                 3 hrs 25 mins       ████████████████████████░   97.71% 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
-Exercicio_For            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
-
-💻 Operating System: 
-Windows                  3 hrs 30 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-
-```
-
-
-
- Last Updated on 25/07/2022 11:56:13 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
