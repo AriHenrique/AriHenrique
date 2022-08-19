@@ -29,20 +29,8 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 363 Contributions in the Year 2022
- > 
-> 📦 31.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
 **I Mostly Code in HTML** 
 
 ```text
@@ -56,7 +44,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2022 20:10:40 UTC
+ Last Updated on 19/08/2022 20:43:53 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
