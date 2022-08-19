@@ -39,7 +39,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
  > 
 > 📦 31.3 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
