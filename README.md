@@ -33,6 +33,18 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 374 Contributions in the Year 2022
+ > 
+> 📦 31.2 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -95,7 +107,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2022 12:52:32 UTC
+ Last Updated on 21/08/2022 12:53:52 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
