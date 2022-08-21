@@ -25,4 +25,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "true"
           SHOW_TOTAL_CODE_TIME: "true"
           SHOW_UPDATED_DATE: "true"
-          SHOW_SHORT_INFO: "false"
+          SHOW_SHORT_INFO: "true"
