@@ -29,7 +29,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
@@ -41,7 +41,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -110,7 +110,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2022 19:15:12 UTC
+ Last Updated on 02/09/2022 19:28:33 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
