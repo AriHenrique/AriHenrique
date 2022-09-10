@@ -29,7 +29,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
@@ -109,7 +109,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2022 00:51:24 UTC
+ Last Updated on 10/09/2022 03:28:43 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
