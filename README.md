@@ -29,7 +29,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -37,7 +37,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 > 🏆 421 Contributions in the Year 2022
  > 
-> 📦 45.9 kB Used in GitHub's Storage 
+> 📦 46.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,7 +110,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2022 00:40:14 UTC
+ Last Updated on 20/09/2022 03:26:29 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
