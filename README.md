@@ -4,7 +4,7 @@
 Aqui estão algumas informações sobre mim:<img align="right" height="180em" src="https://user-images.githubusercontent.com/97318481/177042589-45d62122-82a9-4a32-b3a7-87b322825b2f.png">
 </div>
 
-- 🌱atualmente estou aprendendo C#, HTML/CSS e SQL (engatinhando ainda)
+- 🌱Atualmente estou aprendendo C#, HTML/CSS e SQL (engatinhando ainda)
 - 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL
 - 🤔Procuro ajuda com mentores que possam me instruir para um aprendizado eficiente
 - 💬Pergunte-me sobre QUALQUER COISA!!!
