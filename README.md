@@ -35,6 +35,8 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 **🐱 My GitHub Data** 
 
+> 🏆 438 Contributions in the Year 2022
+ > 
 > 📦 72.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -105,7 +107,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2022 10:37:11 UTC
+ Last Updated on 20/10/2022 10:58:14 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
