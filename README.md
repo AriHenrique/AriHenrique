@@ -29,7 +29,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
@@ -74,17 +74,21 @@ Sunday       98 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 18 mins        ██████████████░░░░░░░░░░░   56.12% 
-Jupyter                  1 hr 1 min          ███████████░░░░░░░░░░░░░░   43.88%
+Jupyter                  2 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.0% 
+Python                   1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   32.06% 
+SQL                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
 
 🔥 Editors: 
-DataSpell                2 hrs 20 mins       █████████████████████████   100.0%
+DataSpell                5 hrs 5 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-estagio_compass.uol      2 hrs 20 mins       █████████████████████████   100.0%
+workspace                3 hrs 38 mins       █████████████████░░░░░░░░   71.45% 
+estagio_compass.uol      1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   25.4% 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.0%
+Windows                  5 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +105,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2022 03:44:53 UTC
+ Last Updated on 01/11/2022 05:04:55 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
