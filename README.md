@@ -5,7 +5,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div>
 
 - 🌱Atualmente estou aprendendo C#, HTML/CSS e SQL (engatinhando ainda)
-- 👯Estagiando Engenharia de Dados - AWS pela Compass.UOL
+- 👯A procura de estágios!!!
 - 🤔Procuro ajuda com mentores que possam me instruir para um aprendizado eficiente
 - 💬Pergunte-me sobre QUALQUER COISA!!!
 - 📫Como chegar até mim:
