@@ -74,20 +74,16 @@ Sunday       101 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-AutoIt                   4 mins              ████████████████████░░░░░   81.76% 
-XML                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MyBot.Run-AIO-MOD-2.0.3  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -104,7 +100,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2022 03:28:35 UTC
+ Last Updated on 25/11/2022 03:52:02 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
