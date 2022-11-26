@@ -29,7 +29,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -74,16 +74,19 @@ Sunday       101 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 32 mins             ██████████████████████░░░   90.16% 
+Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.84%
 
 🔥 Editors: 
-No Activity Tracked This Week
+DataSpell                25 mins             ██████████████████░░░░░░░   71.62% 
+VS Code                  10 mins             ███████░░░░░░░░░░░░░░░░░░   28.38%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+usabilidade              32 mins             ██████████████████████░░░   90.16% 
+MyBot.Run-AIO-MOD-2.0.3  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.84%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  35 mins             █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +103,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2022 03:30:13 UTC
+ Last Updated on 26/11/2022 03:45:07 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
