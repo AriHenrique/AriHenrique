@@ -29,7 +29,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -74,17 +74,18 @@ Sunday       101 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   14 mins             █████████████████████████   100.0%
+C#                       55 mins             █████████████████████████   99.95% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-DataSpell                14 mins             █████████████████████████   100.0%
+VS Code                  55 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-workspace                14 mins             ████████████████████████░   96.48% 
-flask                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.52%
+Unknown Project          29 mins             █████████████░░░░░░░░░░░░   53.87% 
+Scripts                  25 mins             ███████████░░░░░░░░░░░░░░   46.13%
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.0%
+Windows                  55 mins             █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +102,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2022 03:18:15 UTC
+ Last Updated on 10/12/2022 03:32:10 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
