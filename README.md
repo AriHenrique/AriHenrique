@@ -29,7 +29,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 </div><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -43,7 +43,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
  > 
 > 📜 31 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -100,17 +100,17 @@ Windows                  4 hrs 28 mins       ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
-Jupyter Notebook         4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+HTML                     7 repos             █████████░░░░░░░░░░░░░░░░   38.89% 
+Jupyter Notebook         4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
 
 
- Last Updated on 06/01/2023 16:53:32 UTC
+ Last Updated on 06/01/2023 17:10:03 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
