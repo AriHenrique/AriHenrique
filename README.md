@@ -4,9 +4,9 @@
 Aqui estão algumas informações sobre mim:<img align="right" height="180em" src="https://user-images.githubusercontent.com/97318481/177042589-45d62122-82a9-4a32-b3a7-87b322825b2f.png">
 </div>
 
-- 🌱Atualmente estou aprendendo C#, HTML/CSS e SQL (engatinhando ainda)
-- 👯A procura de estágios!!!
-- 🤔Procuro ajuda com mentores que possam me instruir para um aprendizado eficiente
+- 🌱Atualmente estou aprendendo sobre data & analytics (focado em engenharia de dados AWS)
+- 👯Trabalhando como Programador na Compass.uol!!!
+- 🤔Procuro uma forma de ter um aprendizado mais eficiente
 - 💬Pergunte-me sobre QUALQUER COISA!!!
 - 📫Como chegar até mim:
   <a href="https://www.instagram.com/aryhenry/" target="_blank">
