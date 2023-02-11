@@ -24,7 +24,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,7 +32,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 > 🏆 40 Contributions in the Year 2023
  > 
-> 📦 111.5 kB Used in GitHub's Storage 
+> 📦 111.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -69,18 +69,18 @@ Sunday       101 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   9 hrs 28 mins       █████████████████████░░░░   84.76% 
-Markdown                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Python                   9 hrs 40 mins       ████████████████████░░░░░   81.88% 
+Markdown                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.32% 
+CSV                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-PyCharmCore              9 hrs 19 mins       ████████████████████░░░░░   83.42% 
-VS Code                  1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58%
+PyCharmCore              9 hrs 57 mins       █████████████████████░░░░   84.29% 
+VS Code                  1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71%
 
 💻 Operating System: 
-Windows                  11 hrs 11 mins      █████████████████████████   100.0%
+Windows                  11 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
@@ -97,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2023 03:01:43 UTC
+ Last Updated on 11/02/2023 03:25:00 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
