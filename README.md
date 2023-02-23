@@ -36,9 +36,9 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -96,7 +96,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 23:19:49 UTC
+ Last Updated on 23/02/2023 23:31:44 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
