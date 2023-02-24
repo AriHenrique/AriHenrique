@@ -24,13 +24,13 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 47 Contributions in the Year 2023
+> 🏆 44 Contributions in the Year 2023
  > 
 > 📦 104.5 kB Used in GitHub's Storage 
  > 
@@ -86,16 +86,16 @@ Windows                  21 hrs 13 mins      ███████████�
 
 ```text
 HTML                     6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
 Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
 
 
 
- Last Updated on 24/02/2023 22:41:59 UTC
+ Last Updated on 24/02/2023 22:52:50 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
