@@ -30,7 +30,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 **🐱 My GitHub Data** 
 
-> 🏆 62 Contributions in the Year 2023
+> 🏆 60 Contributions in the Year 2023
  > 
 > 📦 107.4 kB Used in GitHub's Storage 
  > 
@@ -99,7 +99,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2023 23:30:21 UTC
+ Last Updated on 27/02/2023 23:41:11 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
