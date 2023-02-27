@@ -1,11 +1,11 @@
-## Oiii eu sou o Aristides Henrique, estudo Sistemas de Informação e programação!
+## Olá, meu nome é Aristides Henrique, mas podem me chamar de ARI
 
 <div >
 Aqui estão algumas informações sobre mim:<img align="right" height="180em" src="https://user-images.githubusercontent.com/97318481/177042589-45d62122-82a9-4a32-b3a7-87b322825b2f.png">
 </div>
 
 - 🌱Atualmente estou aprendendo sobre data & analytics (focado em engenharia de dados AWS)
-- 👯Trabalhando como Programador na Compass.uol!!!
+- 👯Trabalhando como Engenheiro de Dados na Compass uol!!!
 - 🤔Procuro uma forma de ter um aprendizado mais eficiente
 - 💬Pergunte-me sobre QUALQUER COISA!!!
 - 📫Como chegar até mim:
