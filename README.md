@@ -24,7 +24,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -91,8 +91,8 @@ Windows                  28 hrs 4 mins       ███████████�
 
 ```text
 HTML                     6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
@@ -100,7 +100,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2023 17:18:43 UTC
+ Last Updated on 04/03/2023 17:29:54 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
