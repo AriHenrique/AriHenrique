@@ -24,7 +24,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -100,7 +100,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2023 02:52:53 UTC
+ Last Updated on 04/03/2023 03:11:21 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
