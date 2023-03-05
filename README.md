@@ -22,9 +22,9 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 - ⚡Fato engraçado: Sou bastante extrovertido e adoro conversar e interagir com as pessoas
 <br/>
 <br/>
-[[![wakatime](https://wakatime.com/badge/user/97cfde53-3913-4cd8-99cf-b136da9d6e5c.svg)](https://wakatime.com/@97cfde53-3913-4cd8-99cf-b136da9d6e5c)
+<a href="https://wakatime.com/@97cfde53-3913-4cd8-99cf-b136da9d6e5c"><img src="https://wakatime.com/badge/user/97cfde53-3913-4cd8-99cf-b136da9d6e5c.svg" alt="Total time coded since Jun 20 2022" /></a>
+<br/>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
