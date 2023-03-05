@@ -24,9 +24,34 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 <br/>
 
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/97cfde53-3913-4cd8-99cf-b136da9d6e5c.svg)](https://wakatime.com/@97cfde53-3913-4cd8-99cf-b136da9d6e5c)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
- Last Updated on 05/03/2023 15:27:41 UTC
+**🐱 My GitHub Data** 
+
+> 🏆 67 Contributions in the Year 2023
+ > 
+> 📦 110.3 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I Mostly Code in HTML** 
+
+```text
+HTML                     6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+
+ Last Updated on 05/03/2023 15:29:44 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
