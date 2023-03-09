@@ -25,7 +25,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 <a href="https://wakatime.com/@97cfde53-3913-4cd8-99cf-b136da9d6e5c"><img src="https://wakatime.com/badge/user/97cfde53-3913-4cd8-99cf-b136da9d6e5c.svg" alt="Total time coded since Jun 20 2022" /></a>
 <br/>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,7 +52,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2023 15:56:37 UTC
+ Last Updated on 09/03/2023 16:23:39 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/arihenrique/arihenrique/blob/output/github-contribution-grid-snake.svg)
