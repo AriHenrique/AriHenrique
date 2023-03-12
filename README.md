@@ -90,4 +90,4 @@ Windows                  19 hrs 47 mins      ███████████�
  Last Updated on 12/03/2023 14:25:36 UTC
 <!--END_SECTION:waka-->
 
-![Snake animation](https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg)
