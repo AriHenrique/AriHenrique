@@ -27,11 +27,11 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-199-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 87 Contributions in the Year 2023
+> 🏆 86 Contributions in the Year 2023
  > 
 > 📦 111.4 kB Used in GitHub's Storage 
  > 
@@ -87,7 +87,7 @@ Windows                  19 hrs 47 mins      ███████████�
 ```
 
 
- Last Updated on 12/03/2023 14:02:58 UTC
+ Last Updated on 12/03/2023 14:10:43 UTC
 <!--END_SECTION:waka-->
 
 
