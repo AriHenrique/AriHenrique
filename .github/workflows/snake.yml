@@ -3,7 +3,7 @@ name: Snake
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "* * * * *" 
+    - cron: "0 0 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
