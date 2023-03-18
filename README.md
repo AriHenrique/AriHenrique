@@ -25,22 +25,6 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-522-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 123 Contributions in the Year 2023
- > 
-> 📦 111.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-
- Last Updated on 18/03/2023 01:47:46 UTC
 <!--END_SECTION:waka-->
 
 <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
