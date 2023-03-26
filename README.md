@@ -18,7 +18,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
   <a href="mailto:arihenriqueuna@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
   </a>
-- 😄Pronomes:ELE/DELE
+- 😄Pronomes:ELE
 - ⚡Fato engraçado: Sou bastante extrovertido e adoro conversar e interagir com as pessoas
 <br/>
 <br/>
