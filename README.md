@@ -25,9 +25,9 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,22 +70,22 @@ Sunday       155 commits    ██████████░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   20 hrs 57 mins      ██████████████████████░░░   88.13% 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.71% 
-SQL                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-HTML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+Python                   20 hrs 57 mins      █████████████████████░░░░   86.32% 
+JSON                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.69% 
+SQL                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.93% 
+HTML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🔥 Editors: 
-VS Code                  23 hrs 46 mins      █████████████████████████   100.0%
+VS Code                  24 hrs 16 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  23 hrs 46 mins      █████████████████████████   100.0%
+Windows                  24 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/05/2023 01:47:35 UTC
+ Last Updated on 25/05/2023 01:42:20 UTC
 <!--END_SECTION:waka-->
 
 <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
