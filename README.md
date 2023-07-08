@@ -25,13 +25,13 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-934%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 236 Contributions in the Year 2023
+> 🏆 237 Contributions in the Year 2023
  > 
 > 📦 134.8 kB Used in GitHub's Storage 
  > 
@@ -39,7 +39,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 18 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -70,23 +70,23 @@ Sunday       149 commits    █████████░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      24 hrs 40 mins      █████████████████░░░░░░░░   71.18% 
-TypeScript               3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-Python                   2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
-JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
-GitIgnore file           27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
+SQL                      14 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.66% 
+TypeScript               6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   22.21% 
+Python                   3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
+JSON                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
+GitIgnore file           28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
 
 🔥 Editors: 
-DataSpell                29 hrs 19 mins      █████████████████████░░░░   84.58% 
-VS Code                  5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.42%
+DataSpell                20 hrs 54 mins      █████████████████░░░░░░░░   69.81% 
+VS Code                  9 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   30.19%
 
 💻 Operating System: 
-Windows                  34 hrs 40 mins      █████████████████████████   100.0%
+Windows                  29 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/07/2023 02:05:16 UTC
+ Last Updated on 08/07/2023 02:04:00 UTC
 <!--END_SECTION:waka-->
 
 <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
