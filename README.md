@@ -25,15 +25,15 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C010%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 225 Contributions in the Year 2023
  > 
-> 📦 136.9 kB Used in GitHub's Storage 
+> 📦 136.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -70,23 +70,23 @@ Sunday       132 commits    █████████░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               13 hrs 2 mins       ████████████░░░░░░░░░░░░░   51.25% 
-Python                   4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
-SQL                      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-JSON                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
-Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.15%
+TypeScript               9 hrs 17 mins       █████████████░░░░░░░░░░░░   51.85% 
+SQL                      2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Python                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.26%
 
 🔥 Editors: 
-VS Code                  14 hrs 5 mins       █████████████░░░░░░░░░░░░   55.32% 
-DataSpell                11 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.68%
+VS Code                  10 hrs 42 mins      ███████████████░░░░░░░░░░   59.78% 
+DataSpell                7 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.22%
 
 💻 Operating System: 
-Windows                  25 hrs 27 mins      █████████████████████████   100.0%
+Windows                  17 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/07/2023 01:46:29 UTC
+ Last Updated on 25/07/2023 01:57:19 UTC
 <!--END_SECTION:waka-->
 
 <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
