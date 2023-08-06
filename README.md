@@ -25,9 +25,9 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,23 +70,23 @@ Sunday       130 commits    ██████████░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      9 hrs 13 mins       ███████████████░░░░░░░░░░   59.93% 
-TypeScript               3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.05% 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-CSV                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
-Diagrams.net Diagram     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
+SQL                      13 hrs 14 mins      █████████████████░░░░░░░░   69.54% 
+TypeScript               3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
+Diagrams.net Diagram     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
 
 🔥 Editors: 
-DataSpell                11 hrs 41 mins      ███████████████████░░░░░░   75.98% 
-VS Code                  3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02%
+DataSpell                15 hrs 20 mins      ████████████████████░░░░░   80.59% 
+VS Code                  3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.41%
 
 💻 Operating System: 
-Windows                  15 hrs 22 mins      █████████████████████████   100.0%
+Windows                  19 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 05/08/2023 01:36:17 UTC
+ Last Updated on 06/08/2023 01:31:53 UTC
 <!--END_SECTION:waka-->
 
 <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
