@@ -25,9 +25,9 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C201%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -68,22 +68,22 @@ Sunday                   444 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 6 hrs               ███████████░░░░░░░░░░░░░░   42.46 % 
-Python                   3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-SQL                      2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Jupyter                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Markdown                 6 hrs               ████████████░░░░░░░░░░░░░   47.22 % 
+Python                   3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.12 % 
+SQL                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Jupyter                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-DataSpell                14 hrs 8 mins       █████████████████████████   99.98 % 
+DataSpell                12 hrs 43 mins      █████████████████████████   99.98 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  14 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/09/2023 01:19:53 UTC
+ Last Updated on 24/09/2023 01:30:44 UTC
 <!--END_SECTION:waka-->
 
 <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
