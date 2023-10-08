@@ -26,3 +26,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_SHORT_INFO: "True"
+          SYMBOL_VERSION: 3
