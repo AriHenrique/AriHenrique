@@ -25,9 +25,9 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C331%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,7 +85,7 @@ Linux                    1 hr 12 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 07/11/2023 20:10:45 UTC
+ Last Updated on 08/11/2023 00:41:35 UTC
 <!--END_SECTION:waka-->
 
 <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
