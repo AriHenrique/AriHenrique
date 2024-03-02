@@ -9,13 +9,13 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 - 🤔Procuro uma forma de ter um aprendizado mais eficiente
 - 💬Pergunte-me sobre QUALQUER COISA!!!
 - 📫Como chegar até mim:
-  <a href="https://www.instagram.com/aryhenry/" target="_blank">
+  <!--<a href="https://www.instagram.com/aryhenry/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" height="20px">
-  </a>
+  </a>-->
   <a href="https://www.linkedin.com/in/aristides-henrique/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" height="20px">
   </a> 
-  <a href="mailto:arihenriqueuna@gmail.com">
+  <a href="mailto:arihenriquedev@hotmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
   </a>
 - 😄Pronomes: ELE
