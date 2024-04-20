@@ -25,7 +25,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C086%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C088%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
@@ -81,7 +81,7 @@ Windows                  30 hrs 5 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 20/04/2024 15:10:30 UTC
+ Last Updated on 20/04/2024 20:10:20 UTC
 <!--END_SECTION:waka-->
 
 <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
