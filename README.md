@@ -32,8 +32,6 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 > 📦 369.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2,101 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 52 Public Repositories 
@@ -84,7 +82,7 @@ WSL                      19 hrs 55 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 24/11/2024 01:57:36 UTC
+ Last Updated on 24/11/2024 12:42:50 UTC
 <!--END_SECTION:waka-->
 
 <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
