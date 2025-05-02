@@ -24,15 +24,13 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C813%20hrs%206%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 419.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,003 Contributions in the Year 2025
+> 🏆 1,006 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,48 +38,8 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
  > 
 > 🔑 43 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                187 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.52 % 
-🌆 Daytime                532 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.47 % 
-🌃 Evening                416 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.08 % 
-🌙 Night                  248 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.93 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   476 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.42 % 
-Tuesday                  27 commits          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.95 % 
-Wednesday                83 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.00 % 
-Thursday                 26 commits          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.88 % 
-Friday                   50 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.62 % 
-Saturday                 287 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.75 % 
-Sunday                   434 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Terraform                9 hrs 30 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.52 % 
-SQL                      6 hrs 2 mins        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.37 % 
-Python                   4 hrs 30 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.64 % 
-YAML                     40 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.94 % 
-Mermaid                  23 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.68 % 
-
-🔥 Editors: 
-DataSpell                22 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-
-💻 Operating System: 
-Windows                  22 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
-
-
- Last Updated on 02/05/2025 01:59:39 UTC
+ Last Updated on 02/05/2025 12:51:31 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (<img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />)
