@@ -24,7 +24,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C916%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C928%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,7 +32,7 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 > 📦 420.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,196 Contributions in the Year 2025
+> 🏆 1,197 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,22 +67,22 @@ Sunday                   466 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      11 hrs 15 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.09 % 
-Terraform                4 hrs 50 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.22 % 
-Makefile                 3 hrs 15 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.55 % 
-Bash                     3 hrs 13 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.45 % 
-JSON                     2 hrs 16 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.70 % 
+SQL                      10 hrs 51 mins      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.13 % 
+Terraform                5 hrs 23 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.46 % 
+Makefile                 3 hrs 24 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.16 % 
+Bash                     3 hrs 14 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.68 % 
+JSON                     2 hrs 32 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.81 % 
 
 🔥 Editors: 
-DataSpell                34 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+DataSpell                37 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 22 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   65.70 % 
-Windows                  11 hrs 40 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.30 % 
+Mac                      25 hrs 36 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.68 % 
+Windows                  11 hrs 40 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.32 % 
 ```
 
 
- Last Updated on 30/05/2025 12:53:49 UTC
+ Last Updated on 31/05/2025 02:00:34 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (<img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />)
