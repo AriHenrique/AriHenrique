@@ -24,13 +24,11 @@ Aqui estão algumas informações sobre mim:<img align="right" height="180em" sr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C472%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 453.0 kB Used in GitHub's Storage 
+> 📦 452.9 kB Used in GitHub's Storage 
  > 
 > 🏆 2,449 Contributions in the Year 2025
  > 
@@ -84,7 +82,7 @@ Windows                  56 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 20/09/2025 01:51:07 UTC
+ Last Updated on 20/09/2025 12:48:58 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (<img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />)
